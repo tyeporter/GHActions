@@ -30,7 +30,7 @@ public class AppTest {
 
     @Test
     public void shouldBeLessThan() {
-    	assertTrue(200 < 150);
+    	assertTrue(150 < 200);
     }
 
 }
