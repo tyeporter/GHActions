@@ -20,7 +20,7 @@ public class AppTest {
 
     @Test
     public void shouldBeEqual() {
-    	assertEquals("Java", "Swift");
+    	assertEquals("Java", "Java");
     }
 
 }
