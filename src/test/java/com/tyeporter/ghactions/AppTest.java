@@ -28,4 +28,9 @@ public class AppTest {
     	assertTrue(25 > 10);
     }
 
+    @Test
+    public void shouldBeLessThan() {
+    	assertTrue(150 < 200);
+    }
+
 }
