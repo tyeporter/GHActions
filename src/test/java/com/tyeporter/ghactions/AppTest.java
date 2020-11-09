@@ -25,7 +25,7 @@ public class AppTest {
 
     @Test 
     public void shouldBeGreaterThan() {
-    	assertTrue(5 > 10);
+    	assertTrue(25 > 10);
     }
 
 }
