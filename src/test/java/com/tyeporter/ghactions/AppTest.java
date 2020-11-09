@@ -23,4 +23,9 @@ public class AppTest {
     	assertEquals("Java", "Java");
     }
 
+    @Test 
+    public void shouldBeGreaterThan() {
+    	assertTrue(25 > 10);
+    }
+
 }
